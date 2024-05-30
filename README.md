@@ -8,5 +8,15 @@ The dataset [ChatGPT DALL-E 3 Images and Sliced GIFs](https://www.kaggle.com/dat
 
 This dataset is particularly valuable for researchers and developers interested in exploring the capabilities of AI in generating high-quality images and animations. By providing both static images and sliced GIFs, it allows for comprehensive experimentation with different forms of visual data. This can aid in the development of new models or the improvement of existing ones in areas such as computer vision, art generation, and multimedia content creation.
 
+#
+### Sliced GIFs
+
+A "Sliced GIF" refers to a type of animated GIF created by dividing an image into equal square pieces and then assembling these pieces incrementally into a series of frames. This process results in an animation where the image appears to be constructed piece by piece, creating a dynamic effect. The final frame displays the complete image for a brief period, enhancing the overall presentation. This technique is implemented in the Sliced GIF Maker, a Python-based GUI tool using tkinter for the interface and Pillow for image processing.
+
+#
+### Related Links
+
+[Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
