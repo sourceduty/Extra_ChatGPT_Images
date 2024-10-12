@@ -14,6 +14,10 @@ This dataset is particularly valuable for researchers and developers interested 
 A "Sliced GIF" refers to a type of animated GIF created by dividing an image into equal square pieces and then assembling these pieces incrementally into a series of frames. This process results in an animation where the image appears to be constructed piece by piece, creating a dynamic effect. The final frame displays the complete image for a brief period, enhancing the overall presentation. This technique is implemented in the Sliced GIF Maker, a Python-based GUI tool using tkinter for the interface and Pillow for image processing.
 
 #
+
+Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+
+#
 ### Related Links
 
 [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
