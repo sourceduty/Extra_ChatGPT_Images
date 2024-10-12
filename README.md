@@ -25,6 +25,22 @@ Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">se
 ### Related Links
 
 [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+<br>
+[Sports Product](https://github.com/sourceduty/Sports_Product)
+<br>
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+<br>
+[History Product](https://github.com/sourceduty/History_Product)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
+<br>
+[Animal Product](https://github.com/sourceduty/Animal_Product)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
