@@ -1,4 +1,4 @@
-![AI](https://github.com/sourceduty/Extra_ChatGPT_Images/assets/123030236/a8f4f10a-94c5-4b20-b7c9-c5cf5221d3a2)
+![DALL-E](https://github.com/user-attachments/assets/bb992cdc-02ef-4b75-b650-bf75f8155b83)
 
 > 400+ ChatGPT DALL-E 3 Images and 120 GIFs.
 
