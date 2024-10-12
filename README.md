@@ -15,6 +15,10 @@ A "Sliced GIF" refers to a type of animated GIF created by dividing an image int
 
 #
 
+> ALex: "*There is 1000+ extra images shared on OneDrive*"
+
+#
+
 Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 #
