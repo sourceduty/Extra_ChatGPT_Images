@@ -15,7 +15,7 @@ A "Sliced GIF" refers to a type of animated GIF created by dividing an image int
 
 #
 
-> ALex: "*There is 1000+ extra images shared on OneDrive*"
+> Alex: "*There is 1000+ extra images shared on OneDrive*"
 
 #
 
